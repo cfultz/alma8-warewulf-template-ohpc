@@ -1,9 +1,9 @@
 # AlmaLinux 8 Warewulf Template for OpenHPC
 
-I'm in the process of converting my current OpenHPC cluster to AlmaLinux from Rocky. The instructions provided by OpenHPC have the defaults of Ubuntu, Debian, CentOS, OpenSuse,SLES, and Rocky. But what if you want AlmaLinux? Use this template! 
+I'm in the process of converting my current OpenHPC cluster to AlmaLinux from Rocky. The instructions provided by OpenHPC have the defaults of Ubuntu, Debian, CentOS, OpenSuse, SLES, and Rocky. But what if you want AlmaLinux? Use this template! 
 
 #### Please Note
-Your master node will already need to have AlmaLinux 8.8 installed
+Your master node will already need to have AlmaLinux 8.8 installed. To convert your CentOS 8 or Rocky 8 system in place, use [almalinux-deploy](https://github.com/AlmaLinux/almalinux-deploy) so you can save the hassel of reinstallation.
 
 ## How to use
 
